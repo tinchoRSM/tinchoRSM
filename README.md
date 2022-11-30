@@ -7,7 +7,7 @@
 
 - 🏢 I'm currently looking for new opportunities 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a><a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?logo=microsoft-azure"></a>
+- 🌱 I’m currently learning <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-tinchoRSM-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/tinchorsm/)
 
 ## 🔨 Technologies 
