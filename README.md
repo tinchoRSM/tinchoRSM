@@ -5,9 +5,9 @@
 
 
 
-- 🏢 I'm currently looking for new opportunities 
+- 🏢 I'm currently working as a Full-Stack Engineer 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- 🌱 I’m currently learning Design Patterns
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-tinchoRSM-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/tinchorsm/)
 
 ## 🔨 Technologies 
