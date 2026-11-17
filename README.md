@@ -28,7 +28,6 @@
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Redux tookit" src="https://custom-icon-badges.herokuapp.com/badge/Redux_Tollkit-6a329f.svg?logo=redux11&logoColor=white"></a>
 </p>
 
 <p>
